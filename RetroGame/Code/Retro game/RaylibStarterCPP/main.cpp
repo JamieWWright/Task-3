@@ -28,14 +28,17 @@ int main(int argc, char* argv[])
     InitWindow(screenWidth, screenHeight, "raylib [core] example - basic window");
     SetTargetFPS(60);
 
+    bool ballLoaded = true;
+
     while (!WindowShouldClose())
     {
         BeginDrawing();
 
-        ClearBackground(RAYWHITE);
+        ClearBackground(BLACK);
 
-        DrawText("Congrats! You created your first window!", 190, 200, 20, LIGHTGRAY);
-
+        DrawRectangle(20, 175, 10, 100, BLUE);
+        DrawRectangle(780, 175, 10, 100, RED);
+        DrawCircle(400, 225, 10, WHITE);
         EndDrawing();
     }
     CloseWindow();
