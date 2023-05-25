@@ -1,7 +1,21 @@
-﻿raylib.lib(core.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(core.obj)' or at 'C:\Users\s211033\Desktop\Visual Studio C++\Task 3rep\RetroGame\Code\Retro game\bin\x64\Debug\raylib.pdb'; linking object as if no debug info
-raylib.lib(shapes.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(shapes.obj)' or at 'C:\Users\s211033\Desktop\Visual Studio C++\Task 3rep\RetroGame\Code\Retro game\bin\x64\Debug\raylib.pdb'; linking object as if no debug info
-raylib.lib(utils.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(utils.obj)' or at 'C:\Users\s211033\Desktop\Visual Studio C++\Task 3rep\RetroGame\Code\Retro game\bin\x64\Debug\raylib.pdb'; linking object as if no debug info
-raylib.lib(textures.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(textures.obj)' or at 'C:\Users\s211033\Desktop\Visual Studio C++\Task 3rep\RetroGame\Code\Retro game\bin\x64\Debug\raylib.pdb'; linking object as if no debug info
-raylib.lib(text.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(text.obj)' or at 'C:\Users\s211033\Desktop\Visual Studio C++\Task 3rep\RetroGame\Code\Retro game\bin\x64\Debug\raylib.pdb'; linking object as if no debug info
-raylib.lib(rglfw.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(rglfw.obj)' or at 'C:\Users\s211033\Desktop\Visual Studio C++\Task 3rep\RetroGame\Code\Retro game\bin\x64\Debug\raylib.pdb'; linking object as if no debug info
+﻿  main.cpp
+C:\Users\s211033\Desktop\Visual Studio C++\Task 3rep\RetroGame\Code\Retro game\RaylibStarterCPP\main.cpp(55,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\s211033\Desktop\Visual Studio C++\Task 3rep\RetroGame\Code\Retro game\RaylibStarterCPP\main.cpp(55,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\s211033\Desktop\Visual Studio C++\Task 3rep\RetroGame\Code\Retro game\RaylibStarterCPP\main.cpp(55,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\s211033\Desktop\Visual Studio C++\Task 3rep\RetroGame\Code\Retro game\RaylibStarterCPP\main.cpp(55,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\s211033\Desktop\Visual Studio C++\Task 3rep\RetroGame\Code\Retro game\RaylibStarterCPP\main.cpp(56,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\s211033\Desktop\Visual Studio C++\Task 3rep\RetroGame\Code\Retro game\RaylibStarterCPP\main.cpp(56,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\s211033\Desktop\Visual Studio C++\Task 3rep\RetroGame\Code\Retro game\RaylibStarterCPP\main.cpp(56,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\s211033\Desktop\Visual Studio C++\Task 3rep\RetroGame\Code\Retro game\RaylibStarterCPP\main.cpp(56,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\s211033\Desktop\Visual Studio C++\Task 3rep\RetroGame\Code\Retro game\RaylibStarterCPP\main.cpp(57,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\s211033\Desktop\Visual Studio C++\Task 3rep\RetroGame\Code\Retro game\RaylibStarterCPP\main.cpp(57,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\s211033\Desktop\Visual Studio C++\Task 3rep\RetroGame\Code\Retro game\RaylibStarterCPP\main.cpp(81,41): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\s211033\Desktop\Visual Studio C++\Task 3rep\RetroGame\Code\Retro game\RaylibStarterCPP\main.cpp(81,41): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\s211033\Desktop\Visual Studio C++\Task 3rep\RetroGame\Code\Retro game\RaylibStarterCPP\main.cpp(82,33): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\s211033\Desktop\Visual Studio C++\Task 3rep\RetroGame\Code\Retro game\RaylibStarterCPP\main.cpp(82,33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\s211033\Desktop\Visual Studio C++\Task 3rep\RetroGame\Code\Retro game\RaylibStarterCPP\main.cpp(82,56): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\s211033\Desktop\Visual Studio C++\Task 3rep\RetroGame\Code\Retro game\RaylibStarterCPP\main.cpp(82,56): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\s211033\Desktop\Visual Studio C++\Task 3rep\RetroGame\Code\Retro game\RaylibStarterCPP\main.cpp(93,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\s211033\Desktop\Visual Studio C++\Task 3rep\RetroGame\Code\Retro game\RaylibStarterCPP\main.cpp(136,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\s211033\Desktop\Visual Studio C++\Task 3rep\RetroGame\Code\Retro game\RaylibStarterCPP\main.cpp(144,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   RaylibStarterCPP.vcxproj -> C:\Users\s211033\Desktop\Visual Studio C++\Task 3rep\RetroGame\Code\Retro game\bin\x64\Debug\RaylibStarterCPP.exe
